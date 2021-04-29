@@ -1,0 +1,17 @@
+Program: AST
+	 - Body : "Main"  
+		 - Type : "int"  
+			 + Name : "seven"
+			 + Val : "7"
+		 - Type "boolean" : 
+			 + Name : "boolean"
+			 + Val : "false"
+		 - Type : "int"  
+			 + Name : "four"
+			 + Val : "4"
+		 - Type : "int"  
+			 + Name : "eight"
+			 + Val : "8"
+		 - Type : "int"  
+			 + Name : "eight"
+			 + Val : "8"

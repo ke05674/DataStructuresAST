@@ -1,0 +1,17 @@
+Program: AST
+	 - Body : "Main"  
+		 - Type : "int"  
+			 + Name : "four"
+			 + Val : "4"
+		 - Type "boolean" : 
+			 + Name : "true"
+			 + Val : "true"
+		 - Type : "int"  
+			 + Name : "three"
+			 + Val : "3"
+		 - Type : "int"  
+			 + Name : "four"
+			 + Val : "4"
+		 - Type : "int"  
+			 + Name : "five"
+			 + Val : "5"
