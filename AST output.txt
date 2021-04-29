@@ -1,0 +1,68 @@
+Enter the amount of variables to be created: 5
+Please enter a name for a file for the first AST: testone
+Enter a 0 to create an int variable or 1 to create a boolean variable:
+0
+Please name your integer: 
+four
+Please enter the value of your integer:
+4
+File created: testone.txt
+Enter a 0 to create an int variable or 1 to create a boolean variable:
+1
+Please name your boolean value: 
+true
+Please enter true or false for your boolean value: 
+true
+Enter a 0 to create an int variable or 1 to create a boolean variable:
+0
+Please name your integer: 
+three
+Please enter the value of your integer:
+3
+Enter a 0 to create an int variable or 1 to create a boolean variable:
+0
+Please name your integer: 
+four
+Please enter the value of your integer:
+4
+Enter a 0 to create an int variable or 1 to create a boolean variable:
+0
+Please name your integer: 
+five
+Please enter the value of your integer:
+5
+Enter the amount of variables to be created: 5
+Please enter a name for a file for the first AST: testtwo
+Enter a 0 to create an int variable or 1 to create a boolean variable:
+0
+Please name your integer: 
+seven
+Please enter the value of your integer:
+7
+File created: testtwo.txt
+Enter a 0 to create an int variable or 1 to create a boolean variable:
+1
+Please name your boolean value: 
+boolean
+Please enter true or false for your boolean value: 
+false
+Enter a 0 to create an int variable or 1 to create a boolean variable:
+0
+Please name your integer: 
+four
+Please enter the value of your integer:
+4
+Enter a 0 to create an int variable or 1 to create a boolean variable:
+0
+Please name your integer: 
+eight
+Please enter the value of your integer:
+8
+Enter a 0 to create an int variable or 1 to create a boolean variable:
+0
+Please name your integer: 
+eight
+Please enter the value of your integer:
+8
+Level order traversal of binary tree one is:four 4 true 0 three 3 four 4 five 5 
+Level order traversal of binary tree two is:seven 7 boolean 0 four 4 eight 8 eight 8 
